@@ -1,4 +1,4 @@
-##TrashZJ is a dataset of recyclable trash for trash classification.
+## TrashZJ is a dataset of recyclable trash for trash classification.
 
 TrashZJ contains 10040 images divided into five classes (clothes, plastic, metal, paper, glass).
 
