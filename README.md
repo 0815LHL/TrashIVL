@@ -1,1 +1,1 @@
-TrashZJ-A recyclable trash image classification dataset
+TrashZJ-a recyclable trash image classification dataset
