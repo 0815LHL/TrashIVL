@@ -8,9 +8,7 @@ Each class is furthur divided into its subclasses as follows:
 
 * Plastic : Plastic bag [Number of images: 460], Plastic basin [Number of images: 577], Plastic bottle [Number of images: 1064]
 
-* Paper : Cardboard [Number of images: 605], Carton [Number of images: 324]
-
-* Newspaper [Number of images: 395], Paper Cup [Number of images: 253]
+* Paper : Cardboard [Number of images: 605], Carton [Number of images: 324], Newspaper [Number of images: 395], Paper Cup [Number of images: 253]
 
 * Metal : Can [Number of images: 1172]
 
