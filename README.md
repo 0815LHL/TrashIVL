@@ -1,6 +1,6 @@
-## TrashZJ is a dataset of recyclable trash for trash classification.
+## TrashIVL is a dataset of recyclable trash for trash classification.
 
-TrashZJ contains 10040 images divided into five classes (clothes, plastic, metal, paper, glass).
+TrashIVL contains 10040 images divided into five classes (clothes, plastic, metal, paper, glass).
 
 Each class is furthur divided into its subclasses as follows:
 
